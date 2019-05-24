@@ -1,6 +1,6 @@
 {
-  "name": "kiper-converter",
-  "version": "1.0.0",
+  "name": "@gmorfim/kiper-converter",
+  "version": "1.0.1",
   "description": "cast object properties by dic",
   "main": "index.js",
   "scripts": {

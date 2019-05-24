@@ -6,8 +6,8 @@ module.exports = function converter(list, dic) {
         const converted = {};
 
         Object.keys(item).forEach(x => {
-            converted[dic[x]] = item[x]
-        })
+            if (dic[x]) converted[dic[x]] = item[x]
+        });
 
         return converted;
     });
