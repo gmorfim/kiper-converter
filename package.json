@@ -1,0 +1,11 @@
+{
+  "name": "kiper-converter",
+  "version": "1.0.0",
+  "description": "cast object properties by dic",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Gustavo Morfim <gustavomorfim@gmail.com>",
+  "license": "ISC"
+}
